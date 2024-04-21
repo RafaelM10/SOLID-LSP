@@ -1,0 +1,15 @@
+{
+    "name": "meira/poligonos-lsp",
+    "autoload": {
+        "psr-4": {
+            "src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "RafaelM10",
+            "email": "rafameira10@icloud.com"
+        }
+    ],
+    "require": {}
+}
